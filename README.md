@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-Hello! I'm Adedoyin Adelakun 🤓, a Data analyst, Virtual Assistant, Data Annotator, Quality Auditor with a strong foundation in transforming data into clear, meaningful insights. I work with tools such as Excel, SQL, Power BI, and Python to analyze datasets, build dashboards, and support data-driven decisions. I enjoy exploring real-world datasets, solving analytical problems, and presenting insights in a simple and actionable way. My goal is to continue growing in the data field while contributing to projects that create value and improve decision-making.
+Hello! I'm Adedoyin Adelakun 🤓, a Data analyst, Virtual Assistant, Data Annotator, and Quality Auditor with a strong foundation in transforming data into clear, meaningful insights. I work with tools such as Excel, SQL, Power BI, and Python to analyze datasets, build dashboards, and support data-driven decisions. I enjoy exploring real-world datasets, solving analytical problems, and presenting insights in a simple and actionable way. My goal is to continue growing in the data field while contributing to projects that create value and improve decision-making.
 
 
 
